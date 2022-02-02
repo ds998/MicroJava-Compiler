@@ -1,0 +1,1743 @@
+INFO  16:33:53,280 - Compiling source file: \\VMWARE-HOST\Shared Folders\Desktop\pp1_domaci\workspace\MJCompiler\test\ispravan_A.mj
+INFO  16:33:54,249 - #2 program
+INFO  16:33:54,249 - #48 test301
+INFO  16:33:54,250 - #6 const
+INFO  16:33:54,272 - #48 int
+INFO  16:33:54,272 - #48 nula
+INFO  16:33:54,279 - #34 =
+INFO  16:33:54,285 - #49 0
+INFO  16:33:54,287 - #7 ;
+INFO  16:33:54,318 - #6 const
+INFO  16:33:54,319 - #48 int
+INFO  16:33:54,320 - #48 jedan
+INFO  16:33:54,320 - #34 =
+INFO  16:33:54,321 - #49 1
+INFO  16:33:54,321 - #7 ;
+INFO  16:33:54,322 - #6 const
+INFO  16:33:54,322 - #48 int
+INFO  16:33:54,322 - #48 pet
+INFO  16:33:54,323 - #34 =
+INFO  16:33:54,323 - #49 5
+INFO  16:33:54,324 - #7 ;
+INFO  16:33:54,324 - #48 int
+INFO  16:33:54,325 - #48 niz
+INFO  16:33:54,325 - #9 [
+INFO  16:33:54,325 - #10 ]
+INFO  16:33:54,326 - #7 ;
+INFO  16:33:54,358 - #48 char
+INFO  16:33:54,359 - #48 nizch
+INFO  16:33:54,359 - #9 [
+INFO  16:33:54,359 - #10 ]
+INFO  16:33:54,360 - #7 ;
+INFO  16:33:54,360 - #3 {
+INFO  16:33:54,360 - #13 void
+INFO  16:33:54,368 - #48 main
+INFO  16:33:54,369 - #14 (
+INFO  16:33:54,369 - #15 )
+INFO  16:33:54,377 - #48 int
+INFO  16:33:54,386 - #48 bodovi
+INFO  16:33:54,386 - #7 ;
+INFO  16:33:54,401 - #3 {
+INFO  16:33:54,403 - #48 bodovi
+INFO  16:33:54,410 - #34 =
+INFO  16:33:54,440 - #49 0
+INFO  16:33:54,450 - #7 ;
+INFO  16:33:54,451 - #48 bodovi
+INFO  16:33:54,459 - #45 ++
+INFO  16:33:54,460 - #7 ;
+INFO  16:33:54,460 - #48 bodovi
+INFO  16:33:54,473 - #34 =
+INFO  16:33:54,474 - #48 bodovi
+INFO  16:33:54,475 - #41 +
+INFO  16:33:54,475 - #48 jedan
+INFO  16:33:54,496 - #7 ;
+INFO  16:33:54,496 - #48 bodovi
+INFO  16:33:54,497 - #34 =
+INFO  16:33:54,498 - #48 bodovi
+INFO  16:33:54,498 - #42 *
+INFO  16:33:54,499 - #48 pet
+INFO  16:33:54,516 - #7 ;
+INFO  16:33:54,518 - #48 bodovi
+INFO  16:33:54,520 - #46 --
+INFO  16:33:54,521 - #7 ;
+INFO  16:33:54,522 - #26 print
+INFO  16:33:54,531 - #14 (
+INFO  16:33:54,532 - #48 bodovi
+INFO  16:33:54,533 - #5 ,
+INFO  16:33:54,534 - #49 5
+INFO  16:33:54,534 - #15 )
+INFO  16:33:54,534 - #7 ;
+INFO  16:33:54,535 - #48 niz
+INFO  16:33:54,535 - #34 =
+INFO  16:33:54,536 - #32 new
+INFO  16:33:54,536 - #48 int
+INFO  16:33:54,536 - #9 [
+INFO  16:33:54,537 - #49 3
+INFO  16:33:54,537 - #10 ]
+INFO  16:33:54,537 - #7 ;
+INFO  16:33:54,538 - #48 niz
+INFO  16:33:54,539 - #9 [
+INFO  16:33:54,539 - #48 nula
+INFO  16:33:54,547 - #10 ]
+INFO  16:33:54,548 - #34 =
+INFO  16:33:54,564 - #48 jedan
+INFO  16:33:54,565 - #7 ;
+INFO  16:33:54,566 - #48 niz
+INFO  16:33:54,567 - #9 [
+INFO  16:33:54,567 - #49 1
+INFO  16:33:54,567 - #10 ]
+INFO  16:33:54,568 - #34 =
+INFO  16:33:54,568 - #49 2
+INFO  16:33:54,568 - #7 ;
+INFO  16:33:54,569 - #48 niz
+INFO  16:33:54,569 - #9 [
+INFO  16:33:54,570 - #48 niz
+INFO  16:33:54,570 - #9 [
+INFO  16:33:54,570 - #48 jedan
+INFO  16:33:54,571 - #10 ]
+INFO  16:33:54,571 - #10 ]
+INFO  16:33:54,572 - #34 =
+INFO  16:33:54,572 - #48 niz
+INFO  16:33:54,573 - #9 [
+INFO  16:33:54,575 - #48 niz
+INFO  16:33:54,575 - #9 [
+INFO  16:33:54,576 - #49 0
+INFO  16:33:54,576 - #10 ]
+INFO  16:33:54,577 - #10 ]
+INFO  16:33:54,577 - #42 *
+INFO  16:33:54,578 - #49 3
+INFO  16:33:54,578 - #7 ;
+INFO  16:33:54,578 - #48 bodovi
+INFO  16:33:54,579 - #34 =
+INFO  16:33:54,579 - #48 niz
+INFO  16:33:54,579 - #9 [
+INFO  16:33:54,579 - #49 2
+INFO  16:33:54,580 - #10 ]
+INFO  16:33:54,580 - #43 /
+INFO  16:33:54,580 - #48 niz
+INFO  16:33:54,588 - #9 [
+INFO  16:33:54,589 - #49 0
+INFO  16:33:54,590 - #10 ]
+INFO  16:33:54,590 - #7 ;
+INFO  16:33:54,591 - #26 print
+INFO  16:33:54,591 - #14 (
+INFO  16:33:54,592 - #48 bodovi
+INFO  16:33:54,592 - #5 ,
+INFO  16:33:54,593 - #49 5
+INFO  16:33:54,593 - #15 )
+INFO  16:33:54,593 - #7 ;
+INFO  16:33:54,595 - #26 print
+INFO  16:33:54,595 - #14 (
+INFO  16:33:54,596 - #48 niz
+INFO  16:33:54,596 - #9 [
+INFO  16:33:54,596 - #49 2
+INFO  16:33:54,597 - #10 ]
+INFO  16:33:54,597 - #5 ,
+INFO  16:33:54,598 - #49 5
+INFO  16:33:54,598 - #15 )
+INFO  16:33:54,598 - #7 ;
+INFO  16:33:54,599 - #48 nizch
+INFO  16:33:54,599 - #34 =
+INFO  16:33:54,599 - #32 new
+INFO  16:33:54,599 - #48 char
+INFO  16:33:54,600 - #9 [
+INFO  16:33:54,600 - #49 3
+INFO  16:33:54,600 - #10 ]
+INFO  16:33:54,601 - #7 ;
+INFO  16:33:54,601 - #48 nizch
+INFO  16:33:54,602 - #9 [
+INFO  16:33:54,602 - #49 0
+INFO  16:33:54,602 - #10 ]
+INFO  16:33:54,603 - #34 =
+INFO  16:33:54,603 - #50 a
+INFO  16:33:54,604 - #7 ;
+INFO  16:33:54,611 - #48 nizch
+INFO  16:33:54,612 - #9 [
+INFO  16:33:54,612 - #48 jedan
+INFO  16:33:54,612 - #10 ]
+INFO  16:33:54,613 - #34 =
+INFO  16:33:54,613 - #50 b
+INFO  16:33:54,614 - #7 ;
+INFO  16:33:54,614 - #48 nizch
+INFO  16:33:54,614 - #9 [
+INFO  16:33:54,615 - #48 pet
+INFO  16:33:54,615 - #30 -
+INFO  16:33:54,615 - #49 3
+INFO  16:33:54,631 - #10 ]
+INFO  16:33:54,633 - #34 =
+INFO  16:33:54,633 - #50 c
+INFO  16:33:54,634 - #7 ;
+INFO  16:33:54,634 - #26 print
+INFO  16:33:54,635 - #14 (
+INFO  16:33:54,637 - #48 nizch
+INFO  16:33:54,638 - #9 [
+INFO  16:33:54,639 - #49 1
+INFO  16:33:54,639 - #10 ]
+INFO  16:33:54,640 - #15 )
+INFO  16:33:54,648 - #7 ;
+INFO  16:33:54,648 - #26 print
+INFO  16:33:54,649 - #14 (
+INFO  16:33:54,649 - #48 nizch
+INFO  16:33:54,650 - #9 [
+INFO  16:33:54,650 - #48 jedan
+INFO  16:33:54,651 - #42 *
+INFO  16:33:54,651 - #49 2
+INFO  16:33:54,652 - #10 ]
+INFO  16:33:54,652 - #15 )
+INFO  16:33:54,653 - #7 ;
+INFO  16:33:54,653 - #48 bodovi
+INFO  16:33:54,653 - #34 =
+INFO  16:33:54,654 - #48 bodovi
+INFO  16:33:54,654 - #41 +
+INFO  16:33:54,655 - #14 (
+INFO  16:33:54,655 - #48 pet
+INFO  16:33:54,657 - #42 *
+INFO  16:33:54,658 - #48 jedan
+INFO  16:33:54,659 - #30 -
+INFO  16:33:54,659 - #49 1
+INFO  16:33:54,660 - #15 )
+INFO  16:33:54,660 - #42 *
+INFO  16:33:54,660 - #48 bodovi
+INFO  16:33:54,661 - #30 -
+INFO  16:33:54,662 - #14 (
+INFO  16:33:54,662 - #49 3
+INFO  16:33:54,663 - #44 %
+INFO  16:33:54,664 - #49 2
+INFO  16:33:54,673 - #41 +
+INFO  16:33:54,673 - #49 3
+INFO  16:33:54,674 - #42 *
+INFO  16:33:54,674 - #49 2
+INFO  16:33:54,674 - #30 -
+INFO  16:33:54,675 - #49 3
+INFO  16:33:54,675 - #15 )
+INFO  16:33:54,675 - #7 ;
+INFO  16:33:54,676 - #26 print
+INFO  16:33:54,676 - #14 (
+INFO  16:33:54,676 - #48 bodovi
+INFO  16:33:54,677 - #5 ,
+INFO  16:33:54,677 - #49 5
+INFO  16:33:54,677 - #15 )
+INFO  16:33:54,678 - #7 ;
+INFO  16:33:54,678 - #16 if
+INFO  16:33:54,678 - #14 (
+INFO  16:33:54,679 - #48 bodovi
+INFO  16:33:54,679 - #39 <
+INFO  16:33:54,680 - #49 0
+INFO  16:33:54,694 - #29 ||
+INFO  16:33:54,703 - #49 6
+INFO  16:33:54,704 - #37 >
+INFO  16:33:54,704 - #49 5
+INFO  16:33:54,712 - #28 &&
+INFO  16:33:54,719 - #48 bodovi
+INFO  16:33:54,720 - #37 >
+INFO  16:33:54,720 - #49 0
+INFO  16:33:54,720 - #15 )
+INFO  16:33:54,721 - #26 print
+INFO  16:33:54,721 - #14 (
+INFO  16:33:54,722 - #49 3
+INFO  16:33:54,722 - #15 )
+INFO  16:33:54,722 - #7 ;
+INFO  16:33:54,723 - #17 else
+INFO  16:33:54,723 - #26 print
+INFO  16:33:54,737 - #14 (
+INFO  16:33:54,737 - #49 0
+INFO  16:33:54,738 - #15 )
+INFO  16:33:54,738 - #7 ;
+INFO  16:33:54,739 - #25 read
+INFO  16:33:54,739 - #14 (
+INFO  16:33:54,739 - #48 bodovi
+INFO  16:33:54,741 - #15 )
+INFO  16:33:54,741 - #7 ;
+INFO  16:33:54,742 - #26 print
+INFO  16:33:54,742 - #14 (
+INFO  16:33:54,743 - #48 bodovi
+INFO  16:33:54,743 - #15 )
+INFO  16:33:54,744 - #7 ;
+INFO  16:33:54,744 - #4 }
+INFO  16:33:54,745 - #4 }
+INFO  16:33:54,845 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        DeclarationList(
+          DeclarationList(
+            NoDeclaration(
+            ) [NoDeclaration]
+            CDecl(
+              ConstDeclarations(
+                ConstDeclaration(
+                  ConstDeclVar(
+                    Type(
+                     int
+                    ) [Type]
+                   nula
+                    Num(
+                      NumConst(
+                       0
+                      ) [NumConst]
+                    ) [Num]
+                  ) [ConstDeclVar]
+                ) [ConstDeclaration]
+              ) [ConstDeclarations]
+            ) [CDecl]
+          ) [DeclarationList]
+          CDecl(
+            ConstDeclarations(
+              ConstDeclaration(
+                ConstDeclVar(
+                  Type(
+                   int
+                  ) [Type]
+                 jedan
+                  Num(
+                    NumConst(
+                     1
+                    ) [NumConst]
+                  ) [Num]
+                ) [ConstDeclVar]
+              ) [ConstDeclaration]
+            ) [ConstDeclarations]
+          ) [CDecl]
+        ) [DeclarationList]
+        CDecl(
+          ConstDeclarations(
+            ConstDeclaration(
+              ConstDeclVar(
+                Type(
+                 int
+                ) [Type]
+               pet
+                Num(
+                  NumConst(
+                   5
+                  ) [NumConst]
+                ) [Num]
+              ) [ConstDeclVar]
+            ) [ConstDeclaration]
+          ) [ConstDeclarations]
+        ) [CDecl]
+      ) [DeclarationList]
+      VDecl(
+        VarDeclarations(
+          VarDeclaration(
+            VarDeclVar(
+              Type(
+               int
+              ) [Type]
+             niz
+              VarDeclVarIndOption(
+              ) [VarDeclVarIndOption]
+            ) [VarDeclVar]
+          ) [VarDeclaration]
+        ) [VarDeclarations]
+      ) [VDecl]
+    ) [DeclarationList]
+    VDecl(
+      VarDeclarations(
+        VarDeclaration(
+          VarDeclVar(
+            Type(
+             char
+            ) [Type]
+           nizch
+            VarDeclVarIndOption(
+            ) [VarDeclVarIndOption]
+          ) [VarDeclVar]
+        ) [VarDeclaration]
+      ) [VarDeclarations]
+    ) [VDecl]
+  ) [DeclarationList]
+  ProgrammingMethods(
+    NoProgrammingMethods(
+    ) [NoProgrammingMethods]
+    MethodDecl(
+      VoidTN(
+       main
+      ) [VoidTN]
+      NoFormParams(
+      ) [NoFormParams]
+      RepeatingVars(
+        NoClassOptionalVar(
+        ) [NoClassOptionalVar]
+        LocalVarDeclarations(
+          LocalVarDeclaration(
+            VarDeclVar(
+              Type(
+               int
+              ) [Type]
+             bodovi
+              NoVarDeclVarIndOption(
+              ) [NoVarDeclVarIndOption]
+            ) [VarDeclVar]
+          ) [LocalVarDeclaration]
+        ) [LocalVarDeclarations]
+      ) [RepeatingVars]
+      StmtList(
+        StmtList(
+          StmtList(
+            StmtList(
+              StmtList(
+                StmtList(
+                  StmtList(
+                    StmtList(
+                      StmtList(
+                        StmtList(
+                          StmtList(
+                            StmtList(
+                              StmtList(
+                                StmtList(
+                                  StmtList(
+                                    StmtList(
+                                      StmtList(
+                                        StmtList(
+                                          StmtList(
+                                            StmtList(
+                                              StmtList(
+                                                StmtList(
+                                                  StmtList(
+                                                    StmtList(
+                                                      NoStmts(
+                                                      ) [NoStmts]
+                                                      Designation(
+                                                        DesignatorStatement(
+                                                          Designator(
+                                                            StartDesignator(
+                                                             bodovi
+                                                            ) [StartDesignator]
+                                                            NoFolUp(
+                                                            ) [NoFolUp]
+                                                          ) [Designator]
+                                                          Assignment(
+                                                            AssignmentOp(
+                                                              AssignOp(
+                                                              ) [AssignOp]
+                                                              OneExpression(
+                                                                PlusExpr(
+                                                                  OneTerm(
+                                                                    OneFactor(
+                                                                      NumFactor(
+                                                                        NumConst(
+                                                                         0
+                                                                        ) [NumConst]
+                                                                      ) [NumFactor]
+                                                                    ) [OneFactor]
+                                                                  ) [OneTerm]
+                                                                ) [PlusExpr]
+                                                              ) [OneExpression]
+                                                            ) [AssignmentOp]
+                                                          ) [Assignment]
+                                                        ) [DesignatorStatement]
+                                                      ) [Designation]
+                                                    ) [StmtList]
+                                                    Designation(
+                                                      DesignatorStatement(
+                                                        Designator(
+                                                          StartDesignator(
+                                                           bodovi
+                                                          ) [StartDesignator]
+                                                          NoFolUp(
+                                                          ) [NoFolUp]
+                                                        ) [Designator]
+                                                        Increment(
+                                                        ) [Increment]
+                                                      ) [DesignatorStatement]
+                                                    ) [Designation]
+                                                  ) [StmtList]
+                                                  Designation(
+                                                    DesignatorStatement(
+                                                      Designator(
+                                                        StartDesignator(
+                                                         bodovi
+                                                        ) [StartDesignator]
+                                                        NoFolUp(
+                                                        ) [NoFolUp]
+                                                      ) [Designator]
+                                                      Assignment(
+                                                        AssignmentOp(
+                                                          AssignOp(
+                                                          ) [AssignOp]
+                                                          OneExpression(
+                                                            PlusExpr(
+                                                              MultipleTerms(
+                                                                OneTerm(
+                                                                  OneFactor(
+                                                                    NoFuncDesignator(
+                                                                      Designator(
+                                                                        StartDesignator(
+                                                                         bodovi
+                                                                        ) [StartDesignator]
+                                                                        NoFolUp(
+                                                                        ) [NoFolUp]
+                                                                      ) [Designator]
+                                                                    ) [NoFuncDesignator]
+                                                                  ) [OneFactor]
+                                                                ) [OneTerm]
+                                                                Plus(
+                                                                ) [Plus]
+                                                                OneFactor(
+                                                                  NoFuncDesignator(
+                                                                    Designator(
+                                                                      StartDesignator(
+                                                                       jedan
+                                                                      ) [StartDesignator]
+                                                                      NoFolUp(
+                                                                      ) [NoFolUp]
+                                                                    ) [Designator]
+                                                                  ) [NoFuncDesignator]
+                                                                ) [OneFactor]
+                                                              ) [MultipleTerms]
+                                                            ) [PlusExpr]
+                                                          ) [OneExpression]
+                                                        ) [AssignmentOp]
+                                                      ) [Assignment]
+                                                    ) [DesignatorStatement]
+                                                  ) [Designation]
+                                                ) [StmtList]
+                                                Designation(
+                                                  DesignatorStatement(
+                                                    Designator(
+                                                      StartDesignator(
+                                                       bodovi
+                                                      ) [StartDesignator]
+                                                      NoFolUp(
+                                                      ) [NoFolUp]
+                                                    ) [Designator]
+                                                    Assignment(
+                                                      AssignmentOp(
+                                                        AssignOp(
+                                                        ) [AssignOp]
+                                                        OneExpression(
+                                                          PlusExpr(
+                                                            OneTerm(
+                                                              MulFactor(
+                                                                OneFactor(
+                                                                  NoFuncDesignator(
+                                                                    Designator(
+                                                                      StartDesignator(
+                                                                       bodovi
+                                                                      ) [StartDesignator]
+                                                                      NoFolUp(
+                                                                      ) [NoFolUp]
+                                                                    ) [Designator]
+                                                                  ) [NoFuncDesignator]
+                                                                ) [OneFactor]
+                                                                Mul(
+                                                                ) [Mul]
+                                                                NoFuncDesignator(
+                                                                  Designator(
+                                                                    StartDesignator(
+                                                                     pet
+                                                                    ) [StartDesignator]
+                                                                    NoFolUp(
+                                                                    ) [NoFolUp]
+                                                                  ) [Designator]
+                                                                ) [NoFuncDesignator]
+                                                              ) [MulFactor]
+                                                            ) [OneTerm]
+                                                          ) [PlusExpr]
+                                                        ) [OneExpression]
+                                                      ) [AssignmentOp]
+                                                    ) [Assignment]
+                                                  ) [DesignatorStatement]
+                                                ) [Designation]
+                                              ) [StmtList]
+                                              Designation(
+                                                DesignatorStatement(
+                                                  Designator(
+                                                    StartDesignator(
+                                                     bodovi
+                                                    ) [StartDesignator]
+                                                    NoFolUp(
+                                                    ) [NoFolUp]
+                                                  ) [Designator]
+                                                  Decrement(
+                                                  ) [Decrement]
+                                                ) [DesignatorStatement]
+                                              ) [Designation]
+                                            ) [StmtList]
+                                            PrintStmt(
+                                              OneExpression(
+                                                PlusExpr(
+                                                  OneTerm(
+                                                    OneFactor(
+                                                      NoFuncDesignator(
+                                                        Designator(
+                                                          StartDesignator(
+                                                           bodovi
+                                                          ) [StartDesignator]
+                                                          NoFolUp(
+                                                          ) [NoFolUp]
+                                                        ) [Designator]
+                                                      ) [NoFuncDesignator]
+                                                    ) [OneFactor]
+                                                  ) [OneTerm]
+                                                ) [PlusExpr]
+                                              ) [OneExpression]
+                                              PossibleNumConst(
+                                                NumConst(
+                                                 5
+                                                ) [NumConst]
+                                              ) [PossibleNumConst]
+                                            ) [PrintStmt]
+                                          ) [StmtList]
+                                          Designation(
+                                            DesignatorStatement(
+                                              Designator(
+                                                StartDesignator(
+                                                 niz
+                                                ) [StartDesignator]
+                                                NoFolUp(
+                                                ) [NoFolUp]
+                                              ) [Designator]
+                                              Assignment(
+                                                AssignmentOp(
+                                                  AssignOp(
+                                                  ) [AssignOp]
+                                                  OneExpression(
+                                                    PlusExpr(
+                                                      OneTerm(
+                                                        OneFactor(
+                                                          NewArrFactor(
+                                                            Type(
+                                                             int
+                                                            ) [Type]
+                                                            OneExpression(
+                                                              PlusExpr(
+                                                                OneTerm(
+                                                                  OneFactor(
+                                                                    NumFactor(
+                                                                      NumConst(
+                                                                       3
+                                                                      ) [NumConst]
+                                                                    ) [NumFactor]
+                                                                  ) [OneFactor]
+                                                                ) [OneTerm]
+                                                              ) [PlusExpr]
+                                                            ) [OneExpression]
+                                                          ) [NewArrFactor]
+                                                        ) [OneFactor]
+                                                      ) [OneTerm]
+                                                    ) [PlusExpr]
+                                                  ) [OneExpression]
+                                                ) [AssignmentOp]
+                                              ) [Assignment]
+                                            ) [DesignatorStatement]
+                                          ) [Designation]
+                                        ) [StmtList]
+                                        Designation(
+                                          DesignatorStatement(
+                                            Designator(
+                                              StartDesignator(
+                                               niz
+                                              ) [StartDesignator]
+                                              DesFolUp(
+                                                ArrMember(
+                                                  DesFArr(
+                                                    LRIndicator(
+                                                    ) [LRIndicator]
+                                                    OneExpression(
+                                                      PlusExpr(
+                                                        OneTerm(
+                                                          OneFactor(
+                                                            NoFuncDesignator(
+                                                              Designator(
+                                                                StartDesignator(
+                                                                 nula
+                                                                ) [StartDesignator]
+                                                                NoFolUp(
+                                                                ) [NoFolUp]
+                                                              ) [Designator]
+                                                            ) [NoFuncDesignator]
+                                                          ) [OneFactor]
+                                                        ) [OneTerm]
+                                                      ) [PlusExpr]
+                                                    ) [OneExpression]
+                                                  ) [DesFArr]
+                                                ) [ArrMember]
+                                                NoFolUp(
+                                                ) [NoFolUp]
+                                              ) [DesFolUp]
+                                            ) [Designator]
+                                            Assignment(
+                                              AssignmentOp(
+                                                AssignOp(
+                                                ) [AssignOp]
+                                                OneExpression(
+                                                  PlusExpr(
+                                                    OneTerm(
+                                                      OneFactor(
+                                                        NoFuncDesignator(
+                                                          Designator(
+                                                            StartDesignator(
+                                                             jedan
+                                                            ) [StartDesignator]
+                                                            NoFolUp(
+                                                            ) [NoFolUp]
+                                                          ) [Designator]
+                                                        ) [NoFuncDesignator]
+                                                      ) [OneFactor]
+                                                    ) [OneTerm]
+                                                  ) [PlusExpr]
+                                                ) [OneExpression]
+                                              ) [AssignmentOp]
+                                            ) [Assignment]
+                                          ) [DesignatorStatement]
+                                        ) [Designation]
+                                      ) [StmtList]
+                                      Designation(
+                                        DesignatorStatement(
+                                          Designator(
+                                            StartDesignator(
+                                             niz
+                                            ) [StartDesignator]
+                                            DesFolUp(
+                                              ArrMember(
+                                                DesFArr(
+                                                  LRIndicator(
+                                                  ) [LRIndicator]
+                                                  OneExpression(
+                                                    PlusExpr(
+                                                      OneTerm(
+                                                        OneFactor(
+                                                          NumFactor(
+                                                            NumConst(
+                                                             1
+                                                            ) [NumConst]
+                                                          ) [NumFactor]
+                                                        ) [OneFactor]
+                                                      ) [OneTerm]
+                                                    ) [PlusExpr]
+                                                  ) [OneExpression]
+                                                ) [DesFArr]
+                                              ) [ArrMember]
+                                              NoFolUp(
+                                              ) [NoFolUp]
+                                            ) [DesFolUp]
+                                          ) [Designator]
+                                          Assignment(
+                                            AssignmentOp(
+                                              AssignOp(
+                                              ) [AssignOp]
+                                              OneExpression(
+                                                PlusExpr(
+                                                  OneTerm(
+                                                    OneFactor(
+                                                      NumFactor(
+                                                        NumConst(
+                                                         2
+                                                        ) [NumConst]
+                                                      ) [NumFactor]
+                                                    ) [OneFactor]
+                                                  ) [OneTerm]
+                                                ) [PlusExpr]
+                                              ) [OneExpression]
+                                            ) [AssignmentOp]
+                                          ) [Assignment]
+                                        ) [DesignatorStatement]
+                                      ) [Designation]
+                                    ) [StmtList]
+                                    Designation(
+                                      DesignatorStatement(
+                                        Designator(
+                                          StartDesignator(
+                                           niz
+                                          ) [StartDesignator]
+                                          DesFolUp(
+                                            ArrMember(
+                                              DesFArr(
+                                                LRIndicator(
+                                                ) [LRIndicator]
+                                                OneExpression(
+                                                  PlusExpr(
+                                                    OneTerm(
+                                                      OneFactor(
+                                                        NoFuncDesignator(
+                                                          Designator(
+                                                            StartDesignator(
+                                                             niz
+                                                            ) [StartDesignator]
+                                                            DesFolUp(
+                                                              ArrMember(
+                                                                DesFArr(
+                                                                  LRIndicator(
+                                                                  ) [LRIndicator]
+                                                                  OneExpression(
+                                                                    PlusExpr(
+                                                                      OneTerm(
+                                                                        OneFactor(
+                                                                          NoFuncDesignator(
+                                                                            Designator(
+                                                                              StartDesignator(
+                                                                               jedan
+                                                                              ) [StartDesignator]
+                                                                              NoFolUp(
+                                                                              ) [NoFolUp]
+                                                                            ) [Designator]
+                                                                          ) [NoFuncDesignator]
+                                                                        ) [OneFactor]
+                                                                      ) [OneTerm]
+                                                                    ) [PlusExpr]
+                                                                  ) [OneExpression]
+                                                                ) [DesFArr]
+                                                              ) [ArrMember]
+                                                              NoFolUp(
+                                                              ) [NoFolUp]
+                                                            ) [DesFolUp]
+                                                          ) [Designator]
+                                                        ) [NoFuncDesignator]
+                                                      ) [OneFactor]
+                                                    ) [OneTerm]
+                                                  ) [PlusExpr]
+                                                ) [OneExpression]
+                                              ) [DesFArr]
+                                            ) [ArrMember]
+                                            NoFolUp(
+                                            ) [NoFolUp]
+                                          ) [DesFolUp]
+                                        ) [Designator]
+                                        Assignment(
+                                          AssignmentOp(
+                                            AssignOp(
+                                            ) [AssignOp]
+                                            OneExpression(
+                                              PlusExpr(
+                                                OneTerm(
+                                                  MulFactor(
+                                                    OneFactor(
+                                                      NoFuncDesignator(
+                                                        Designator(
+                                                          StartDesignator(
+                                                           niz
+                                                          ) [StartDesignator]
+                                                          DesFolUp(
+                                                            ArrMember(
+                                                              DesFArr(
+                                                                LRIndicator(
+                                                                ) [LRIndicator]
+                                                                OneExpression(
+                                                                  PlusExpr(
+                                                                    OneTerm(
+                                                                      OneFactor(
+                                                                        NoFuncDesignator(
+                                                                          Designator(
+                                                                            StartDesignator(
+                                                                             niz
+                                                                            ) [StartDesignator]
+                                                                            DesFolUp(
+                                                                              ArrMember(
+                                                                                DesFArr(
+                                                                                  LRIndicator(
+                                                                                  ) [LRIndicator]
+                                                                                  OneExpression(
+                                                                                    PlusExpr(
+                                                                                      OneTerm(
+                                                                                        OneFactor(
+                                                                                          NumFactor(
+                                                                                            NumConst(
+                                                                                             0
+                                                                                            ) [NumConst]
+                                                                                          ) [NumFactor]
+                                                                                        ) [OneFactor]
+                                                                                      ) [OneTerm]
+                                                                                    ) [PlusExpr]
+                                                                                  ) [OneExpression]
+                                                                                ) [DesFArr]
+                                                                              ) [ArrMember]
+                                                                              NoFolUp(
+                                                                              ) [NoFolUp]
+                                                                            ) [DesFolUp]
+                                                                          ) [Designator]
+                                                                        ) [NoFuncDesignator]
+                                                                      ) [OneFactor]
+                                                                    ) [OneTerm]
+                                                                  ) [PlusExpr]
+                                                                ) [OneExpression]
+                                                              ) [DesFArr]
+                                                            ) [ArrMember]
+                                                            NoFolUp(
+                                                            ) [NoFolUp]
+                                                          ) [DesFolUp]
+                                                        ) [Designator]
+                                                      ) [NoFuncDesignator]
+                                                    ) [OneFactor]
+                                                    Mul(
+                                                    ) [Mul]
+                                                    NumFactor(
+                                                      NumConst(
+                                                       3
+                                                      ) [NumConst]
+                                                    ) [NumFactor]
+                                                  ) [MulFactor]
+                                                ) [OneTerm]
+                                              ) [PlusExpr]
+                                            ) [OneExpression]
+                                          ) [AssignmentOp]
+                                        ) [Assignment]
+                                      ) [DesignatorStatement]
+                                    ) [Designation]
+                                  ) [StmtList]
+                                  Designation(
+                                    DesignatorStatement(
+                                      Designator(
+                                        StartDesignator(
+                                         bodovi
+                                        ) [StartDesignator]
+                                        NoFolUp(
+                                        ) [NoFolUp]
+                                      ) [Designator]
+                                      Assignment(
+                                        AssignmentOp(
+                                          AssignOp(
+                                          ) [AssignOp]
+                                          OneExpression(
+                                            PlusExpr(
+                                              OneTerm(
+                                                MulFactor(
+                                                  OneFactor(
+                                                    NoFuncDesignator(
+                                                      Designator(
+                                                        StartDesignator(
+                                                         niz
+                                                        ) [StartDesignator]
+                                                        DesFolUp(
+                                                          ArrMember(
+                                                            DesFArr(
+                                                              LRIndicator(
+                                                              ) [LRIndicator]
+                                                              OneExpression(
+                                                                PlusExpr(
+                                                                  OneTerm(
+                                                                    OneFactor(
+                                                                      NumFactor(
+                                                                        NumConst(
+                                                                         2
+                                                                        ) [NumConst]
+                                                                      ) [NumFactor]
+                                                                    ) [OneFactor]
+                                                                  ) [OneTerm]
+                                                                ) [PlusExpr]
+                                                              ) [OneExpression]
+                                                            ) [DesFArr]
+                                                          ) [ArrMember]
+                                                          NoFolUp(
+                                                          ) [NoFolUp]
+                                                        ) [DesFolUp]
+                                                      ) [Designator]
+                                                    ) [NoFuncDesignator]
+                                                  ) [OneFactor]
+                                                  Div(
+                                                  ) [Div]
+                                                  NoFuncDesignator(
+                                                    Designator(
+                                                      StartDesignator(
+                                                       niz
+                                                      ) [StartDesignator]
+                                                      DesFolUp(
+                                                        ArrMember(
+                                                          DesFArr(
+                                                            LRIndicator(
+                                                            ) [LRIndicator]
+                                                            OneExpression(
+                                                              PlusExpr(
+                                                                OneTerm(
+                                                                  OneFactor(
+                                                                    NumFactor(
+                                                                      NumConst(
+                                                                       0
+                                                                      ) [NumConst]
+                                                                    ) [NumFactor]
+                                                                  ) [OneFactor]
+                                                                ) [OneTerm]
+                                                              ) [PlusExpr]
+                                                            ) [OneExpression]
+                                                          ) [DesFArr]
+                                                        ) [ArrMember]
+                                                        NoFolUp(
+                                                        ) [NoFolUp]
+                                                      ) [DesFolUp]
+                                                    ) [Designator]
+                                                  ) [NoFuncDesignator]
+                                                ) [MulFactor]
+                                              ) [OneTerm]
+                                            ) [PlusExpr]
+                                          ) [OneExpression]
+                                        ) [AssignmentOp]
+                                      ) [Assignment]
+                                    ) [DesignatorStatement]
+                                  ) [Designation]
+                                ) [StmtList]
+                                PrintStmt(
+                                  OneExpression(
+                                    PlusExpr(
+                                      OneTerm(
+                                        OneFactor(
+                                          NoFuncDesignator(
+                                            Designator(
+                                              StartDesignator(
+                                               bodovi
+                                              ) [StartDesignator]
+                                              NoFolUp(
+                                              ) [NoFolUp]
+                                            ) [Designator]
+                                          ) [NoFuncDesignator]
+                                        ) [OneFactor]
+                                      ) [OneTerm]
+                                    ) [PlusExpr]
+                                  ) [OneExpression]
+                                  PossibleNumConst(
+                                    NumConst(
+                                     5
+                                    ) [NumConst]
+                                  ) [PossibleNumConst]
+                                ) [PrintStmt]
+                              ) [StmtList]
+                              PrintStmt(
+                                OneExpression(
+                                  PlusExpr(
+                                    OneTerm(
+                                      OneFactor(
+                                        NoFuncDesignator(
+                                          Designator(
+                                            StartDesignator(
+                                             niz
+                                            ) [StartDesignator]
+                                            DesFolUp(
+                                              ArrMember(
+                                                DesFArr(
+                                                  LRIndicator(
+                                                  ) [LRIndicator]
+                                                  OneExpression(
+                                                    PlusExpr(
+                                                      OneTerm(
+                                                        OneFactor(
+                                                          NumFactor(
+                                                            NumConst(
+                                                             2
+                                                            ) [NumConst]
+                                                          ) [NumFactor]
+                                                        ) [OneFactor]
+                                                      ) [OneTerm]
+                                                    ) [PlusExpr]
+                                                  ) [OneExpression]
+                                                ) [DesFArr]
+                                              ) [ArrMember]
+                                              NoFolUp(
+                                              ) [NoFolUp]
+                                            ) [DesFolUp]
+                                          ) [Designator]
+                                        ) [NoFuncDesignator]
+                                      ) [OneFactor]
+                                    ) [OneTerm]
+                                  ) [PlusExpr]
+                                ) [OneExpression]
+                                PossibleNumConst(
+                                  NumConst(
+                                   5
+                                  ) [NumConst]
+                                ) [PossibleNumConst]
+                              ) [PrintStmt]
+                            ) [StmtList]
+                            Designation(
+                              DesignatorStatement(
+                                Designator(
+                                  StartDesignator(
+                                   nizch
+                                  ) [StartDesignator]
+                                  NoFolUp(
+                                  ) [NoFolUp]
+                                ) [Designator]
+                                Assignment(
+                                  AssignmentOp(
+                                    AssignOp(
+                                    ) [AssignOp]
+                                    OneExpression(
+                                      PlusExpr(
+                                        OneTerm(
+                                          OneFactor(
+                                            NewArrFactor(
+                                              Type(
+                                               char
+                                              ) [Type]
+                                              OneExpression(
+                                                PlusExpr(
+                                                  OneTerm(
+                                                    OneFactor(
+                                                      NumFactor(
+                                                        NumConst(
+                                                         3
+                                                        ) [NumConst]
+                                                      ) [NumFactor]
+                                                    ) [OneFactor]
+                                                  ) [OneTerm]
+                                                ) [PlusExpr]
+                                              ) [OneExpression]
+                                            ) [NewArrFactor]
+                                          ) [OneFactor]
+                                        ) [OneTerm]
+                                      ) [PlusExpr]
+                                    ) [OneExpression]
+                                  ) [AssignmentOp]
+                                ) [Assignment]
+                              ) [DesignatorStatement]
+                            ) [Designation]
+                          ) [StmtList]
+                          Designation(
+                            DesignatorStatement(
+                              Designator(
+                                StartDesignator(
+                                 nizch
+                                ) [StartDesignator]
+                                DesFolUp(
+                                  ArrMember(
+                                    DesFArr(
+                                      LRIndicator(
+                                      ) [LRIndicator]
+                                      OneExpression(
+                                        PlusExpr(
+                                          OneTerm(
+                                            OneFactor(
+                                              NumFactor(
+                                                NumConst(
+                                                 0
+                                                ) [NumConst]
+                                              ) [NumFactor]
+                                            ) [OneFactor]
+                                          ) [OneTerm]
+                                        ) [PlusExpr]
+                                      ) [OneExpression]
+                                    ) [DesFArr]
+                                  ) [ArrMember]
+                                  NoFolUp(
+                                  ) [NoFolUp]
+                                ) [DesFolUp]
+                              ) [Designator]
+                              Assignment(
+                                AssignmentOp(
+                                  AssignOp(
+                                  ) [AssignOp]
+                                  OneExpression(
+                                    PlusExpr(
+                                      OneTerm(
+                                        OneFactor(
+                                          CharFactor(
+                                            CharConst(
+                                             a
+                                            ) [CharConst]
+                                          ) [CharFactor]
+                                        ) [OneFactor]
+                                      ) [OneTerm]
+                                    ) [PlusExpr]
+                                  ) [OneExpression]
+                                ) [AssignmentOp]
+                              ) [Assignment]
+                            ) [DesignatorStatement]
+                          ) [Designation]
+                        ) [StmtList]
+                        Designation(
+                          DesignatorStatement(
+                            Designator(
+                              StartDesignator(
+                               nizch
+                              ) [StartDesignator]
+                              DesFolUp(
+                                ArrMember(
+                                  DesFArr(
+                                    LRIndicator(
+                                    ) [LRIndicator]
+                                    OneExpression(
+                                      PlusExpr(
+                                        OneTerm(
+                                          OneFactor(
+                                            NoFuncDesignator(
+                                              Designator(
+                                                StartDesignator(
+                                                 jedan
+                                                ) [StartDesignator]
+                                                NoFolUp(
+                                                ) [NoFolUp]
+                                              ) [Designator]
+                                            ) [NoFuncDesignator]
+                                          ) [OneFactor]
+                                        ) [OneTerm]
+                                      ) [PlusExpr]
+                                    ) [OneExpression]
+                                  ) [DesFArr]
+                                ) [ArrMember]
+                                NoFolUp(
+                                ) [NoFolUp]
+                              ) [DesFolUp]
+                            ) [Designator]
+                            Assignment(
+                              AssignmentOp(
+                                AssignOp(
+                                ) [AssignOp]
+                                OneExpression(
+                                  PlusExpr(
+                                    OneTerm(
+                                      OneFactor(
+                                        CharFactor(
+                                          CharConst(
+                                           b
+                                          ) [CharConst]
+                                        ) [CharFactor]
+                                      ) [OneFactor]
+                                    ) [OneTerm]
+                                  ) [PlusExpr]
+                                ) [OneExpression]
+                              ) [AssignmentOp]
+                            ) [Assignment]
+                          ) [DesignatorStatement]
+                        ) [Designation]
+                      ) [StmtList]
+                      Designation(
+                        DesignatorStatement(
+                          Designator(
+                            StartDesignator(
+                             nizch
+                            ) [StartDesignator]
+                            DesFolUp(
+                              ArrMember(
+                                DesFArr(
+                                  LRIndicator(
+                                  ) [LRIndicator]
+                                  OneExpression(
+                                    PlusExpr(
+                                      MultipleTerms(
+                                        OneTerm(
+                                          OneFactor(
+                                            NoFuncDesignator(
+                                              Designator(
+                                                StartDesignator(
+                                                 pet
+                                                ) [StartDesignator]
+                                                NoFolUp(
+                                                ) [NoFolUp]
+                                              ) [Designator]
+                                            ) [NoFuncDesignator]
+                                          ) [OneFactor]
+                                        ) [OneTerm]
+                                        Minus(
+                                        ) [Minus]
+                                        OneFactor(
+                                          NumFactor(
+                                            NumConst(
+                                             3
+                                            ) [NumConst]
+                                          ) [NumFactor]
+                                        ) [OneFactor]
+                                      ) [MultipleTerms]
+                                    ) [PlusExpr]
+                                  ) [OneExpression]
+                                ) [DesFArr]
+                              ) [ArrMember]
+                              NoFolUp(
+                              ) [NoFolUp]
+                            ) [DesFolUp]
+                          ) [Designator]
+                          Assignment(
+                            AssignmentOp(
+                              AssignOp(
+                              ) [AssignOp]
+                              OneExpression(
+                                PlusExpr(
+                                  OneTerm(
+                                    OneFactor(
+                                      CharFactor(
+                                        CharConst(
+                                         c
+                                        ) [CharConst]
+                                      ) [CharFactor]
+                                    ) [OneFactor]
+                                  ) [OneTerm]
+                                ) [PlusExpr]
+                              ) [OneExpression]
+                            ) [AssignmentOp]
+                          ) [Assignment]
+                        ) [DesignatorStatement]
+                      ) [Designation]
+                    ) [StmtList]
+                    PrintStmt(
+                      OneExpression(
+                        PlusExpr(
+                          OneTerm(
+                            OneFactor(
+                              NoFuncDesignator(
+                                Designator(
+                                  StartDesignator(
+                                   nizch
+                                  ) [StartDesignator]
+                                  DesFolUp(
+                                    ArrMember(
+                                      DesFArr(
+                                        LRIndicator(
+                                        ) [LRIndicator]
+                                        OneExpression(
+                                          PlusExpr(
+                                            OneTerm(
+                                              OneFactor(
+                                                NumFactor(
+                                                  NumConst(
+                                                   1
+                                                  ) [NumConst]
+                                                ) [NumFactor]
+                                              ) [OneFactor]
+                                            ) [OneTerm]
+                                          ) [PlusExpr]
+                                        ) [OneExpression]
+                                      ) [DesFArr]
+                                    ) [ArrMember]
+                                    NoFolUp(
+                                    ) [NoFolUp]
+                                  ) [DesFolUp]
+                                ) [Designator]
+                              ) [NoFuncDesignator]
+                            ) [OneFactor]
+                          ) [OneTerm]
+                        ) [PlusExpr]
+                      ) [OneExpression]
+                      NoNumConst(
+                      ) [NoNumConst]
+                    ) [PrintStmt]
+                  ) [StmtList]
+                  PrintStmt(
+                    OneExpression(
+                      PlusExpr(
+                        OneTerm(
+                          OneFactor(
+                            NoFuncDesignator(
+                              Designator(
+                                StartDesignator(
+                                 nizch
+                                ) [StartDesignator]
+                                DesFolUp(
+                                  ArrMember(
+                                    DesFArr(
+                                      LRIndicator(
+                                      ) [LRIndicator]
+                                      OneExpression(
+                                        PlusExpr(
+                                          OneTerm(
+                                            MulFactor(
+                                              OneFactor(
+                                                NoFuncDesignator(
+                                                  Designator(
+                                                    StartDesignator(
+                                                     jedan
+                                                    ) [StartDesignator]
+                                                    NoFolUp(
+                                                    ) [NoFolUp]
+                                                  ) [Designator]
+                                                ) [NoFuncDesignator]
+                                              ) [OneFactor]
+                                              Mul(
+                                              ) [Mul]
+                                              NumFactor(
+                                                NumConst(
+                                                 2
+                                                ) [NumConst]
+                                              ) [NumFactor]
+                                            ) [MulFactor]
+                                          ) [OneTerm]
+                                        ) [PlusExpr]
+                                      ) [OneExpression]
+                                    ) [DesFArr]
+                                  ) [ArrMember]
+                                  NoFolUp(
+                                  ) [NoFolUp]
+                                ) [DesFolUp]
+                              ) [Designator]
+                            ) [NoFuncDesignator]
+                          ) [OneFactor]
+                        ) [OneTerm]
+                      ) [PlusExpr]
+                    ) [OneExpression]
+                    NoNumConst(
+                    ) [NoNumConst]
+                  ) [PrintStmt]
+                ) [StmtList]
+                Designation(
+                  DesignatorStatement(
+                    Designator(
+                      StartDesignator(
+                       bodovi
+                      ) [StartDesignator]
+                      NoFolUp(
+                      ) [NoFolUp]
+                    ) [Designator]
+                    Assignment(
+                      AssignmentOp(
+                        AssignOp(
+                        ) [AssignOp]
+                        OneExpression(
+                          PlusExpr(
+                            MultipleTerms(
+                              MultipleTerms(
+                                OneTerm(
+                                  OneFactor(
+                                    NoFuncDesignator(
+                                      Designator(
+                                        StartDesignator(
+                                         bodovi
+                                        ) [StartDesignator]
+                                        NoFolUp(
+                                        ) [NoFolUp]
+                                      ) [Designator]
+                                    ) [NoFuncDesignator]
+                                  ) [OneFactor]
+                                ) [OneTerm]
+                                Plus(
+                                ) [Plus]
+                                MulFactor(
+                                  OneFactor(
+                                    ExprFactor(
+                                      OneExpression(
+                                        PlusExpr(
+                                          MultipleTerms(
+                                            OneTerm(
+                                              MulFactor(
+                                                OneFactor(
+                                                  NoFuncDesignator(
+                                                    Designator(
+                                                      StartDesignator(
+                                                       pet
+                                                      ) [StartDesignator]
+                                                      NoFolUp(
+                                                      ) [NoFolUp]
+                                                    ) [Designator]
+                                                  ) [NoFuncDesignator]
+                                                ) [OneFactor]
+                                                Mul(
+                                                ) [Mul]
+                                                NoFuncDesignator(
+                                                  Designator(
+                                                    StartDesignator(
+                                                     jedan
+                                                    ) [StartDesignator]
+                                                    NoFolUp(
+                                                    ) [NoFolUp]
+                                                  ) [Designator]
+                                                ) [NoFuncDesignator]
+                                              ) [MulFactor]
+                                            ) [OneTerm]
+                                            Minus(
+                                            ) [Minus]
+                                            OneFactor(
+                                              NumFactor(
+                                                NumConst(
+                                                 1
+                                                ) [NumConst]
+                                              ) [NumFactor]
+                                            ) [OneFactor]
+                                          ) [MultipleTerms]
+                                        ) [PlusExpr]
+                                      ) [OneExpression]
+                                    ) [ExprFactor]
+                                  ) [OneFactor]
+                                  Mul(
+                                  ) [Mul]
+                                  NoFuncDesignator(
+                                    Designator(
+                                      StartDesignator(
+                                       bodovi
+                                      ) [StartDesignator]
+                                      NoFolUp(
+                                      ) [NoFolUp]
+                                    ) [Designator]
+                                  ) [NoFuncDesignator]
+                                ) [MulFactor]
+                              ) [MultipleTerms]
+                              Minus(
+                              ) [Minus]
+                              OneFactor(
+                                ExprFactor(
+                                  OneExpression(
+                                    PlusExpr(
+                                      MultipleTerms(
+                                        MultipleTerms(
+                                          OneTerm(
+                                            MulFactor(
+                                              OneFactor(
+                                                NumFactor(
+                                                  NumConst(
+                                                   3
+                                                  ) [NumConst]
+                                                ) [NumFactor]
+                                              ) [OneFactor]
+                                              Mod(
+                                              ) [Mod]
+                                              NumFactor(
+                                                NumConst(
+                                                 2
+                                                ) [NumConst]
+                                              ) [NumFactor]
+                                            ) [MulFactor]
+                                          ) [OneTerm]
+                                          Plus(
+                                          ) [Plus]
+                                          MulFactor(
+                                            OneFactor(
+                                              NumFactor(
+                                                NumConst(
+                                                 3
+                                                ) [NumConst]
+                                              ) [NumFactor]
+                                            ) [OneFactor]
+                                            Mul(
+                                            ) [Mul]
+                                            NumFactor(
+                                              NumConst(
+                                               2
+                                              ) [NumConst]
+                                            ) [NumFactor]
+                                          ) [MulFactor]
+                                        ) [MultipleTerms]
+                                        Minus(
+                                        ) [Minus]
+                                        OneFactor(
+                                          NumFactor(
+                                            NumConst(
+                                             3
+                                            ) [NumConst]
+                                          ) [NumFactor]
+                                        ) [OneFactor]
+                                      ) [MultipleTerms]
+                                    ) [PlusExpr]
+                                  ) [OneExpression]
+                                ) [ExprFactor]
+                              ) [OneFactor]
+                            ) [MultipleTerms]
+                          ) [PlusExpr]
+                        ) [OneExpression]
+                      ) [AssignmentOp]
+                    ) [Assignment]
+                  ) [DesignatorStatement]
+                ) [Designation]
+              ) [StmtList]
+              PrintStmt(
+                OneExpression(
+                  PlusExpr(
+                    OneTerm(
+                      OneFactor(
+                        NoFuncDesignator(
+                          Designator(
+                            StartDesignator(
+                             bodovi
+                            ) [StartDesignator]
+                            NoFolUp(
+                            ) [NoFolUp]
+                          ) [Designator]
+                        ) [NoFuncDesignator]
+                      ) [OneFactor]
+                    ) [OneTerm]
+                  ) [PlusExpr]
+                ) [OneExpression]
+                PossibleNumConst(
+                  NumConst(
+                   5
+                  ) [NumConst]
+                ) [PossibleNumConst]
+              ) [PrintStmt]
+            ) [StmtList]
+            IfElseStmt(
+              SuccCond(
+                ConditionalTerms(
+                  ConditionLeftOr(
+                    ConditionalTerm(
+                      ConditionalFactor(
+                        RelationExpr(
+                          OneExpression(
+                            PlusExpr(
+                              OneTerm(
+                                OneFactor(
+                                  NoFuncDesignator(
+                                    Designator(
+                                      StartDesignator(
+                                       bodovi
+                                      ) [StartDesignator]
+                                      NoFolUp(
+                                      ) [NoFolUp]
+                                    ) [Designator]
+                                  ) [NoFuncDesignator]
+                                ) [OneFactor]
+                              ) [OneTerm]
+                            ) [PlusExpr]
+                          ) [OneExpression]
+                          Le(
+                          ) [Le]
+                          OneExpression(
+                            PlusExpr(
+                              OneTerm(
+                                OneFactor(
+                                  NumFactor(
+                                    NumConst(
+                                     0
+                                    ) [NumConst]
+                                  ) [NumFactor]
+                                ) [OneFactor]
+                              ) [OneTerm]
+                            ) [PlusExpr]
+                          ) [OneExpression]
+                        ) [RelationExpr]
+                      ) [ConditionalFactor]
+                    ) [ConditionalTerm]
+                  ) [ConditionLeftOr]
+                  ConditionalFactors(
+                    CondTermLeftAnd(
+                      ConditionalFactor(
+                        RelationExpr(
+                          OneExpression(
+                            PlusExpr(
+                              OneTerm(
+                                OneFactor(
+                                  NumFactor(
+                                    NumConst(
+                                     6
+                                    ) [NumConst]
+                                  ) [NumFactor]
+                                ) [OneFactor]
+                              ) [OneTerm]
+                            ) [PlusExpr]
+                          ) [OneExpression]
+                          Gt(
+                          ) [Gt]
+                          OneExpression(
+                            PlusExpr(
+                              OneTerm(
+                                OneFactor(
+                                  NumFactor(
+                                    NumConst(
+                                     5
+                                    ) [NumConst]
+                                  ) [NumFactor]
+                                ) [OneFactor]
+                              ) [OneTerm]
+                            ) [PlusExpr]
+                          ) [OneExpression]
+                        ) [RelationExpr]
+                      ) [ConditionalFactor]
+                    ) [CondTermLeftAnd]
+                    RelationExpr(
+                      OneExpression(
+                        PlusExpr(
+                          OneTerm(
+                            OneFactor(
+                              NoFuncDesignator(
+                                Designator(
+                                  StartDesignator(
+                                   bodovi
+                                  ) [StartDesignator]
+                                  NoFolUp(
+                                  ) [NoFolUp]
+                                ) [Designator]
+                              ) [NoFuncDesignator]
+                            ) [OneFactor]
+                          ) [OneTerm]
+                        ) [PlusExpr]
+                      ) [OneExpression]
+                      Gt(
+                      ) [Gt]
+                      OneExpression(
+                        PlusExpr(
+                          OneTerm(
+                            OneFactor(
+                              NumFactor(
+                                NumConst(
+                                 0
+                                ) [NumConst]
+                              ) [NumFactor]
+                            ) [OneFactor]
+                          ) [OneTerm]
+                        ) [PlusExpr]
+                      ) [OneExpression]
+                    ) [RelationExpr]
+                  ) [ConditionalFactors]
+                ) [ConditionalTerms]
+              ) [SuccCond]
+              PrintStmt(
+                OneExpression(
+                  PlusExpr(
+                    OneTerm(
+                      OneFactor(
+                        NumFactor(
+                          NumConst(
+                           3
+                          ) [NumConst]
+                        ) [NumFactor]
+                      ) [OneFactor]
+                    ) [OneTerm]
+                  ) [PlusExpr]
+                ) [OneExpression]
+                NoNumConst(
+                ) [NoNumConst]
+              ) [PrintStmt]
+              ElseStmt(
+              ) [ElseStmt]
+              PrintStmt(
+                OneExpression(
+                  PlusExpr(
+                    OneTerm(
+                      OneFactor(
+                        NumFactor(
+                          NumConst(
+                           0
+                          ) [NumConst]
+                        ) [NumFactor]
+                      ) [OneFactor]
+                    ) [OneTerm]
+                  ) [PlusExpr]
+                ) [OneExpression]
+                NoNumConst(
+                ) [NoNumConst]
+              ) [PrintStmt]
+            ) [IfElseStmt]
+          ) [StmtList]
+          ReadStmt(
+            Designator(
+              StartDesignator(
+               bodovi
+              ) [StartDesignator]
+              NoFolUp(
+              ) [NoFolUp]
+            ) [Designator]
+          ) [ReadStmt]
+        ) [StmtList]
+        PrintStmt(
+          OneExpression(
+            PlusExpr(
+              OneTerm(
+                OneFactor(
+                  NoFuncDesignator(
+                    Designator(
+                      StartDesignator(
+                       bodovi
+                      ) [StartDesignator]
+                      NoFolUp(
+                      ) [NoFolUp]
+                    ) [Designator]
+                  ) [NoFuncDesignator]
+                ) [OneFactor]
+              ) [OneTerm]
+            ) [PlusExpr]
+          ) [OneExpression]
+          NoNumConst(
+          ) [NoNumConst]
+        ) [PrintStmt]
+      ) [StmtList]
+    ) [MethodDecl]
+  ) [ProgrammingMethods]
+) [Program]
+INFO  16:33:54,864 - ===================================
+INFO  16:33:54,926 - Deklarisana konstanta nula i ima vrednost 0 na liniji 5
+INFO  16:33:54,926 - Deklarisana konstanta jedan i ima vrednost 1 na liniji 6
+INFO  16:33:54,927 - Deklarisana konstanta pet i ima vrednost 5 na liniji 7
+INFO  16:33:54,927 - Deklarisan niz niz na liniji 9
+INFO  16:33:54,928 - Deklarisan niz nizch na liniji 10
+INFO  16:33:54,929 - Obradjuje se funkcija main na liniji 13
+INFO  16:33:54,930 - Deklarisana promenljiva bodovi na liniji 14
+INFO  16:33:54,938 -  Print count calls = 9
+INFO  16:33:54,939 -  Deklarisanih promenljivih ima = 1
+INFO  16:33:54,940 - ===================================
+INFO  16:33:55,038 - Parsiranje uspesno zavrseno!

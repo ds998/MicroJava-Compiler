@@ -1,0 +1,61 @@
+// Test301
+
+program test301
+
+	class A{
+	 int a;
+	}
+	
+	A x;
+	
+
+	
+{
+	int m(int c) int c;{
+		c=5;
+		if(c){
+		 print(c);
+		} else {
+		print('a');
+		}
+		c.x= 5;
+		c['a'] = 5;
+		return c;
+	}
+
+	int t() bool b;{
+	b=true;
+     do{
+     print('x');
+     } while(-5);
+     
+    
+    m('b');
+    m(true);
+    switch(b){
+    case 3: break;
+    case 1: break;
+    }
+    return -'a' + b;
+	return 1;
+	 
+	 b = new int;
+	 x = new A;
+	}
+	
+	
+
+	void main()	
+		int bodovi;
+		bool bt;
+	{
+		bodovi = 0;
+		bodovi++;
+		bodovi = bodovi + jedan;
+		bodovi = bodovi * pet;
+		bodovi--;
+		print(bodovi); 
+			
+	}
+}
+
